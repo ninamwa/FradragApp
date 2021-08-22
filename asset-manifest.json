@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/FradragsApp/static/css/main.6d4bd077.chunk.css",
+    "main.js": "/FradragsApp/static/js/main.8827e642.chunk.js",
+    "main.js.map": "/FradragsApp/static/js/main.8827e642.chunk.js.map",
+    "runtime-main.js": "/FradragsApp/static/js/runtime-main.e5676208.js",
+    "runtime-main.js.map": "/FradragsApp/static/js/runtime-main.e5676208.js.map",
+    "static/css/2.818011ed.chunk.css": "/FradragsApp/static/css/2.818011ed.chunk.css",
+    "static/js/2.a0ab57ac.chunk.js": "/FradragsApp/static/js/2.a0ab57ac.chunk.js",
+    "static/js/2.a0ab57ac.chunk.js.map": "/FradragsApp/static/js/2.a0ab57ac.chunk.js.map",
+    "static/js/3.61e32102.chunk.js": "/FradragsApp/static/js/3.61e32102.chunk.js",
+    "static/js/3.61e32102.chunk.js.map": "/FradragsApp/static/js/3.61e32102.chunk.js.map",
+    "index.html": "/FradragsApp/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/FradragsApp/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.6d4bd077.chunk.css.map": "/FradragsApp/static/css/main.6d4bd077.chunk.css.map",
+    "static/js/2.a0ab57ac.chunk.js.LICENSE.txt": "/FradragsApp/static/js/2.a0ab57ac.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e5676208.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.a0ab57ac.chunk.js",
+    "static/css/main.6d4bd077.chunk.css",
+    "static/js/main.8827e642.chunk.js"
+  ]
+}
