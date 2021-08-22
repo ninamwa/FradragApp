@@ -1,0 +1,17 @@
+
+.inline-errormsg{
+    color: red;
+    font-size: small;
+    padding-left: 15px;
+    font-weight: 500;
+
+}
+
+.hidden{
+    display: none;
+}
+
+.row {
+    margin-bottom: 16px;
+    margin-top: 8px;
+}
