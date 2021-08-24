@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/FradragApp/static/css/main.6d4bd077.chunk.css",
-    "main.js": "/FradragApp/static/js/main.8827e642.chunk.js",
-    "main.js.map": "/FradragApp/static/js/main.8827e642.chunk.js.map",
-    "runtime-main.js": "/FradragApp/static/js/runtime-main.f332526b.js",
-    "runtime-main.js.map": "/FradragApp/static/js/runtime-main.f332526b.js.map",
+    "main.css": "/FradragApp/static/css/main.013632fd.chunk.css",
+    "main.js": "/FradragApp/static/js/main.0d4e1eeb.chunk.js",
+    "main.js.map": "/FradragApp/static/js/main.0d4e1eeb.chunk.js.map",
+    "runtime-main.js": "/FradragApp/static/js/runtime-main.c9dbc065.js",
+    "runtime-main.js.map": "/FradragApp/static/js/runtime-main.c9dbc065.js.map",
     "static/css/2.818011ed.chunk.css": "/FradragApp/static/css/2.818011ed.chunk.css",
-    "static/js/2.a0ab57ac.chunk.js": "/FradragApp/static/js/2.a0ab57ac.chunk.js",
-    "static/js/2.a0ab57ac.chunk.js.map": "/FradragApp/static/js/2.a0ab57ac.chunk.js.map",
-    "static/js/3.61e32102.chunk.js": "/FradragApp/static/js/3.61e32102.chunk.js",
-    "static/js/3.61e32102.chunk.js.map": "/FradragApp/static/js/3.61e32102.chunk.js.map",
+    "static/js/2.9a8c2900.chunk.js": "/FradragApp/static/js/2.9a8c2900.chunk.js",
+    "static/js/2.9a8c2900.chunk.js.map": "/FradragApp/static/js/2.9a8c2900.chunk.js.map",
+    "static/js/3.5b27cbe3.chunk.js": "/FradragApp/static/js/3.5b27cbe3.chunk.js",
+    "static/js/3.5b27cbe3.chunk.js.map": "/FradragApp/static/js/3.5b27cbe3.chunk.js.map",
     "index.html": "/FradragApp/index.html",
     "static/css/2.818011ed.chunk.css.map": "/FradragApp/static/css/2.818011ed.chunk.css.map",
-    "static/css/main.6d4bd077.chunk.css.map": "/FradragApp/static/css/main.6d4bd077.chunk.css.map",
-    "static/js/2.a0ab57ac.chunk.js.LICENSE.txt": "/FradragApp/static/js/2.a0ab57ac.chunk.js.LICENSE.txt"
+    "static/css/main.013632fd.chunk.css.map": "/FradragApp/static/css/main.013632fd.chunk.css.map",
+    "static/js/2.9a8c2900.chunk.js.LICENSE.txt": "/FradragApp/static/js/2.9a8c2900.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f332526b.js",
+    "static/js/runtime-main.c9dbc065.js",
     "static/css/2.818011ed.chunk.css",
-    "static/js/2.a0ab57ac.chunk.js",
-    "static/css/main.6d4bd077.chunk.css",
-    "static/js/main.8827e642.chunk.js"
+    "static/js/2.9a8c2900.chunk.js",
+    "static/css/main.013632fd.chunk.css",
+    "static/js/main.0d4e1eeb.chunk.js"
   ]
 }
